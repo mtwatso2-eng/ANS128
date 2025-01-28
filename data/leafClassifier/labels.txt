@@ -1,0 +1,7 @@
+0 cork oak
+1 eucalyptus
+2 mallow
+3 olive
+4 sage
+5 toyon
+6 valley oak
